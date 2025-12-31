@@ -122,11 +122,3 @@ flake8
 ```bash
 pytest
 ```
-
-## License
-
-This project is licensed under the MIT License. See LICENSE for details. 
-
-## Contact 
-
-For any questions or contributions, please reach out to tankkritansh088@gmail.com or open an issue on GitHub.
