@@ -122,3 +122,7 @@ flake8
 ```bash
 pytest
 ```
+
+## License
+
+MIT License - See LICENSE file for details
